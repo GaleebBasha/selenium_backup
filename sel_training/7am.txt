@@ -1,0 +1,3 @@
+This is Python code
+We are discussing Files concepts
+Files are permanent storage of data

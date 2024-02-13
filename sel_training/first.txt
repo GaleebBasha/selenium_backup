@@ -1,0 +1,1 @@
+The advantage of using a with statement is that it is guaranteed to close the file no matter how the nested block exits. uuuIf an exception occurs before the end of the block, it will close the file before the exception is caught by an outer exception handler

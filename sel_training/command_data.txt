@@ -1,0 +1,10 @@
+required_payload > tools > > test.ps1 8 
+# Write-Host $version PROBLEMS 143 OUTPUT TERMINAL ROBOT DOCUMENTATION ROBOT OUTPUT 4 DEBUG CONSOLE | firmware_manifest: A | 0x00043000 | 1.5 kiB | 1.20.1.2807 | || Valid (greenred, gre en) 
+| 15 | sprt:A | 0x00044000 | 143.4 kiB | 1.30.1.263 | | e | Signed (greenred, re | 
+scp:A | 0x00024000 | 477.7 kiB | 1.30.1.65 || Signed (greenred, re
+| mcp: A | 0x00124000 | 472.7 kiB | 1.30.1.65 || Signed (greenred, re 18 9 d) 10 d) | 
+ddr:A | 0x00124000 | 128.2 kiB | 1.20.0.2 || Signed (greenred, re | 
+pe_security_monitor:A | 0x001c5000 | 87.0 kiB II 1.30.1.3 || Signed (greenred, re | 
+pe_management_mode: A | 0x00205000 | 1.0 MiB | 1.30.1.3 10 | Signed (greenred, re | 
+pe_uefi: A | 0x00005000 | 2.5 MiB 1.30.1.3 3 | 
+11 d) | 10 | Signed (greenred, re d) | d)

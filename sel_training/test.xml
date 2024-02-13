@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <names>Ajay</names>
+    <ages>21</ages>
+    <city>Moscow</city>
+  </row>
+  <row>
+    <index>1</index>
+    <names>vijay</names>
+    <ages>23</ages>
+    <city>Delhi</city>
+  </row>
+  <row>
+    <index>2</index>
+    <names>john</names>
+    <ages>31</ages>
+    <city>Tokyo</city>
+  </row>
+  <row>
+    <index>3</index>
+    <names>rina</names>
+    <ages>25</ages>
+    <city>Mumbai</city>
+  </row>
+  <row>
+    <index>4</index>
+    <names>divya</names>
+    <ages>33</ages>
+    <city>hyderabad</city>
+  </row>
+</data>
